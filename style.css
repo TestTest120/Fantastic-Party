@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+padding: 10px;
+ margin:8px;
+
+}
+header {
+  border: 10px solid lightskyblue;
+  padding: 10px;
+  background-color: rgb(207, 238, 253);
+  margin: 10px;
+}
+header a {
+    color: black;
+    text-decoration: 0;
+    background-color: white;
+     padding: 5px;
+     border-radius: 3px;
+    
+}
+main h1 {
+  
+  padding: 10px;
+  background-color: slateblue;
+  color: white;
+  border-top: 3px solid rgb(25, 7, 66);
+  border-bottom: 3px solid rgb(25, 7, 66);
+}
+footer p{
+  
+  padding: 10px;
+background-color: rgba(179, 123, 216, 0.787);
+  color: rgb(0, 0, 0);
+  border-top: 3px solid rgb(16, 5, 42);
+  border-bottom: 3px solid rgb(16, 5, 42);
+}
+footer{
+    background-color:rgb(25, 7, 66) ;
+    }
+    main a  {
+    color: rgb(47, 9, 70);
+    text-decoration: 0;
+    margin:8px;
+     padding: 4px;
+   border-top: 3px solid rgb(16, 5, 42);
+  border-bottom: 3px solid rgb(16, 5, 42);
+    background-color: rgb(226, 222, 251);
+    border-left: 3px dashed rgb(16, 5, 42);
+border-right: 3px dashed rgb(16, 5, 42);
+}
+.f {
+  border: 10px solid rgb(44, 103, 139);
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+    border-top: 5px solid rgb(44, 103, 139);
+  border-bottom: 5px solid rgb(44, 103, 139));
+}
+main h2 {
+  
+  padding: 10px;
+  background-color: rgba(105, 90, 205, 0.253);
+  color: rgba(65, 19, 102, 0.527);
+  border-top: 3px solid rgb(25, 7, 66);
+  border-bottom: 3px solid rgb(25, 7, 66);
+}
